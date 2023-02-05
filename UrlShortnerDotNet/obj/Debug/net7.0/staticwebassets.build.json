@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IsU/X7C5OQgI7Gkf3NsWcyFJ5+h5wsb4dWhEKcHyVTc=",
+  "Source": "UrlShortnerDotNet",
+  "BasePath": "_content/UrlShortnerDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
