@@ -2,5 +2,5 @@
 
 public class UrlsResponseDto
 {
-    public string url { get; set; } 
+    public string shortenUrl { get; set; } 
 }
